@@ -1,6 +1,6 @@
-# ** NeuroStartUp
+# **NeuroStartUp** - bold
 
-## second level header **
+## second level header
 
 ### *third level string*
 
