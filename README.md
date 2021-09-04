@@ -1,4 +1,4 @@
-# **NeuroStartUp** - bold
+# NeuroStart**Up** - bold
 
 ## second level header
 
